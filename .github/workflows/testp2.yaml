@@ -17,4 +17,4 @@ jobs:
       uses: actions/checkout@v6.0.1
 
     - name: Read the content of code repo
-      run: cat three.txt
+      run: cat file3.txt
